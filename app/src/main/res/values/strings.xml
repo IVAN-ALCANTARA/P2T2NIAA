@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P2T2NIAA</string>
+    <string name="TITULO">PROYECTO COLORES</string>
+    <string name="btnagregar">AGREGAR</string>
+    <string name="btnmostrar">MOSTRAR</string>
+    <string name="titulo1">AGREGAR COLOR</string>
+    <string name="hint">Color</string>
+    <string name="titulo2">MOSTRAR COLOR</string>
+</resources>
